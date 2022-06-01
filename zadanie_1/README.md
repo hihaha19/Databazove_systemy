@@ -1,1 +1,0 @@
-https://fiit-dbs-xhankova-app.azurewebsites.net/
